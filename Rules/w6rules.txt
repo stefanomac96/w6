@@ -83,7 +83,7 @@ limit (or until the deck runs out).
   - At the end of this step, your hand must contain exactly the hand-limit number of cards, whenever
 the deck allows it.
 
-Note: When the deck is exhausted you can continue to place the cards in your hand as long as possible.
+The game ends as soon as the deck is exhausted.
 
 -----------------
 
@@ -100,4 +100,4 @@ Easy: Maximum hand of 4 cards.
 
 -----------------
 
-Last revision: 2026-08-18
+Last revision: 2026-08-20
