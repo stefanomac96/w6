@@ -23,7 +23,7 @@ ________________
 
 ERKLÄRUNG DER SYMBOLE
 
-Jede Karte zeigt unten eine Zahl, die ihre Kategorie und ihre Position in der Kette angibt. Außerdem befinden sich an den Seiten eine oder zwei Farben, durch deren Verbindung mit passenden Karten die Kette fortgesetzt werden kann.
+Jede Karte zeigt unten eine Zahl, die ihre Kategorie und ihre Position in der Kette angibt. Ausserdem befinden sich an den Seiten eine oder zwei Farben, durch deren Verbindung mit passenden Karten die Kette fortgesetzt werden kann.
 
 ________________
 
