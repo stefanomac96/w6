@@ -6,7 +6,7 @@ Draw cards, reconstruct the logical chain of events, and unmask the culprit.
 The colors never lie - it is up to you to connect them and find the right path to the truth.
 Fast-paced, intriguing, and infinitely replayable. Solve the case, one card at a time!
 
-__________________
+________________
 
 COMPONENTS
 
@@ -19,13 +19,13 @@ A deck of 60 cards, equally divided into 6 categories:
 5. Weapon (WHAT)
 6. Culprit (WRONGDOER)
 
------------------
+________________
 
 SYMBOLS EXPLANATION
 
 Each card displays a number at the bottom that identifies its category and its position in the chain, along with one or two colors on the sides that allow the chain to continue by connecting to compatible cards.
 
------------------
+________________
 
 INITIAL SETUP
 
@@ -37,7 +37,7 @@ INITIAL SETUP
 
 You may take a mulligan on your starting victim or your starting hand: choose 1 card, 2 cards, or all 3 cards to redraw. Put the chosen cards back into your deck, shuffle it thoroughly, then draw the same number of new cards. This procedure may be performed only once during setup.
 
------------------
+________________
 
 OBJECTIVE
 
@@ -45,7 +45,7 @@ The chain of cards to complete to solve the case will be:
 
 [1. VICTIM] - [2. LOCATION] - [3. TIME] - [4. MOTIVE] - [5. WEAPON] - [6. CULPRIT]
 
------------------
+________________
 
 TURN SEQUENCE
 
@@ -73,7 +73,7 @@ Option B: Backtrack
 - If you have fewer cards than the current hand limit, draw cards from the deck until you reach the limit (or until the deck runs out).
 - At the end of this step, your hand must contain exactly the hand-limit number of cards, whenever the deck allows it.
 
------------------
+________________
 
 END OF GAME
 
@@ -83,12 +83,12 @@ Complete the chain of 6 cards, from the victim to finding the culprit.
 Defeat:
 Deck finished without completing the chain (the game ends as soon as the deck is exhausted).
 
------------------
+________________
 
 DIFFICULTY
 Normal: Maximum hand of 3 cards.
 Easy: Maximum hand of 4 cards.
 
------------------
+________________
 
 Last revision: 2026-08-21
