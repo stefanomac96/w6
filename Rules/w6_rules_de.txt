@@ -1,0 +1,94 @@
+W6: Catch the Killer
+"Jedes Mal ein neuer Tatort. Eine rasante Solo-Ermittlung"
+
+Ein Solo-Kartenspiel, in dem jeder Tatort eine einzigartige Geschichte erzählt.
+Ziehe Karten, rekonstruiere die logische Abfolge der Ereignisse und entlarve den Täter.
+Die Farben lügen nie – es liegt an dir, sie zu verbinden und den richtigen Weg zur Wahrheit zu finden.
+Rasant, fesselnd und unendlich oft spielbar. Löse den Fall, Karte für Karte!
+
+________________
+
+SPIELMATERIAL
+
+Ein Stapel aus 60 Karten, gleichmäßig auf 6 Kategorien verteilt:
+
+1. Opfer (WER)
+2. Ort (WO)
+3. Zeitpunkt (WANN)
+4. Motiv (WARUM)
+5. Tatwaffe (WAS)
+6. Täter (TÄTER)
+
+________________
+
+ERKLÄRUNG DER SYMBOLE
+
+Jede Karte zeigt unten eine Zahl, die ihre Kategorie und ihre Position in der Kette angibt. Außerdem befinden sich an den Seiten eine oder zwei Farben, durch deren Verbindung mit passenden Karten die Kette fortgesetzt werden kann.
+
+________________
+
+SPIELVORBEREITUNG
+
+1. Entferne alle Opferkarten aus dem Stapel.
+2. Mische die Opferkarten und ziehe 1 zufällige Karte (sie bildet den ersten Platz der Kette und stellt das Opfer in deinem Fall dar).
+3. Lege alle anderen Opferkarten zurück in die Schachtel.
+4. Mische die Karten der übrigen 5 Kategorien zusammen (dies ist dein Nachziehstapel).
+5. Ziehe 3 Karten vom Nachziehstapel (deine Starthand).
+
+Du darfst für dein anfängliches Opfer oder deine Starthand einen Mulligan durchführen: Wähle 1 Karte, 2 Karten oder alle 3 Karten, die du neu ziehen möchtest. Lege die gewählten Karten in den jeweiligen Stapel zurück, mische ihn gründlich und ziehe anschließend dieselbe Anzahl neuer Karten. Dieser Vorgang darf während der Spielvorbereitung nur einmal durchgeführt werden.
+
+________________
+
+SPIELZIEL
+
+Um den Fall zu lösen, musst du folgende Kartenkette vervollständigen:
+
+[1. OPFER] - [2. ORT] - [3. ZEITPUNKT] - [4. MOTIV] - [5. TATWAFFE] - [6. TÄTER]
+
+________________
+
+ZUGABLAUF
+
+1. Eine Karte ausspielen
+
+- Wenn du eine Karte auf der Hand hast, bei der mindestens eine Farbe auf der linken Seite mit mindestens einer Farbe auf der rechten Seite der vorherigen Karte in der Kette übereinstimmt, darfst du sie ausspielen.
+- Wenn du keine passende Karte hast, unternimm nichts.
+
+2. Eine Karte ziehen oder zurückgehen
+
+Du musst genau eine der beiden folgenden Optionen wählen.
+
+Option A: Ziehen
+- Ziehe 1 Karte vom Nachziehstapel und nimm sie auf die Hand.
+- Diese Karte darf nicht unmittelbar nach dem Ziehen ausgespielt werden.
+
+Option B: Zurückgehen
+- Du darfst nur zurückgehen, wenn die Kette nach dem Opfer bereits mindestens eine weitere Karte enthält (die Opferkarte darf niemals entfernt werden) und du eine Karte auf der Hand hast, deren Farbe zu der Karte passt, die ihr nun in der Kette vorausgehen würde.
+- Wirf die letzte Karte der Kette ab. Sie wird dauerhaft aus dem Spiel entfernt.
+- Spiele sofort die passende Karte aus deiner Hand an ihrer Stelle aus.
+
+3. Handkarten auf die vorgesehene Anzahl bringen
+
+- Wenn du mehr Karten als das aktuelle Handkartenlimit hast (3 auf Normal, 4 auf Einfach), wirf überzählige Karten ab, bis du das Limit erreicht hast.
+- Wenn du weniger Karten als das aktuelle Handkartenlimit hast, ziehe Karten vom Nachziehstapel, bis du das Limit erreicht hast (oder bis der Stapel leer ist).
+- Am Ende dieses Schrittes muss deine Hand genau so viele Karten enthalten, wie das Handkartenlimit vorgibt, sofern der Nachziehstapel dies zulässt.
+
+________________
+
+SPIELENDE
+
+Sieg:
+Vervollständige die Kette aus 6 Karten, vom Opfer bis zur Entlarvung des Täters.
+
+Niederlage:
+Der Nachziehstapel ist leer, ohne dass die Kette vervollständigt wurde (das Spiel endet, sobald der Nachziehstapel aufgebraucht ist).
+
+________________
+
+SCHWIERIGKEITSGRAD
+Normal: maximal 3 Handkarten.
+Einfach: maximal 4 Handkarten.
+
+________________
+
+Letzte Überarbeitung: 2026-08-21

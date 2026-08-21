@@ -1,0 +1,94 @@
+W6: Catch the Killer
+"A new crime scene every time. A fast-paced solo investigation"
+
+A solo card game where every crime scene tells a unique story.
+Draw cards, reconstruct the logical chain of events, and unmask the culprit.
+The colors never lie - it is up to you to connect them and find the right path to the truth.
+Fast-paced, intriguing, and infinitely replayable. Solve the case, one card at a time!
+
+________________
+
+COMPONENTS
+
+A deck of 60 cards, equally divided into 6 categories:
+
+1. Victim (WHO)
+2. Location (WHERE)
+3. Time (WHEN)
+4. Motive (WHY)
+5. Weapon (WHAT)
+6. Culprit (WRONGDOER)
+
+________________
+
+SYMBOLS EXPLANATION
+
+Each card displays a number at the bottom that identifies its category and its position in the chain, along with one or two colors on the sides that allow the chain to continue by connecting to compatible cards.
+
+________________
+
+INITIAL SETUP
+
+1. From the deck, remove all Victim cards.
+2. Shuffle the Victim cards and draw 1 random card (this will be the first slot of the chain, the Victim in our case to solve).
+3. Put all the other Victim cards back in the box.
+4. Shuffle together all the remaining 5 categories of cards (this is the deck from which you'll draw).
+5. Draw 3 cards from the deck (your initial hand).
+
+You may take a mulligan on your starting victim or your starting hand: choose 1 card, 2 cards, or all 3 cards to redraw. Put the chosen cards back into your deck, shuffle it thoroughly, then draw the same number of new cards. This procedure may be performed only once during setup.
+
+________________
+
+OBJECTIVE
+
+The chain of cards to complete to solve the case will be:
+
+[1. VICTIM] - [2. LOCATION] - [3. TIME] - [4. MOTIVE] - [5. WEAPON] - [6. CULPRIT]
+
+________________
+
+TURN SEQUENCE
+
+1. Place card
+
+- If you have a card in hand where at least one color on the left matches at least one of the colors on the right of the previous card in the chain, you can place it.
+- If you don't have a matching card, do nothing.
+
+2. Draw a card or Backtrack
+
+You must choose only one of the two options below.
+
+Option A: Draw
+- Draw 1 card from the deck and add it to your hand.
+- This card may not be played immediately after it has been drawn.
+
+Option B: Backtrack
+- You may only Backtrack if the chain already contains at least one card beyond the Victim (you can never remove the Victim card), and you have a card in hand that matches the color of the card now preceding it in the chain.
+- Discard the last card in the chain. It is removed from the game permanently.
+- Immediately play the matching card from your hand in its place.
+
+3. Adjust your hand to the target size
+
+- If you have more cards than the current hand limit (3 in Normal, 4 in Easy), discard the excess cards until you reach the limit.
+- If you have fewer cards than the current hand limit, draw cards from the deck until you reach the limit (or until the deck runs out).
+- At the end of this step, your hand must contain exactly the hand-limit number of cards, whenever the deck allows it.
+
+________________
+
+END OF GAME
+
+Victory:
+Complete the chain of 6 cards, from the victim to finding the culprit.
+
+Defeat:
+Deck finished without completing the chain (the game ends as soon as the deck is exhausted).
+
+________________
+
+DIFFICULTY
+Normal: Maximum hand of 3 cards.
+Easy: Maximum hand of 4 cards.
+
+________________
+
+Last revision: 2026-08-21

@@ -1,0 +1,94 @@
+W6: Catch the Killer
+"Une nouvelle scène de crime à chaque partie. Une enquête en solo au rythme effréné"
+
+Un jeu de cartes en solo dans lequel chaque scène de crime raconte une histoire unique.
+Piochez des cartes, reconstituez la suite logique des événements et démasquez le coupable.
+Les couleurs ne mentent jamais : à vous de les relier et de trouver le bon chemin vers la vérité.
+Rapide, captivant et rejouable à l'infini. Résolvez l'affaire, une carte après l'autre !
+
+________________
+
+MATÉRIEL
+
+Un paquet de 60 cartes, réparties équitablement en 6 catégories :
+
+1. Victime (QUI)
+2. Lieu (OÙ)
+3. Heure (QUAND)
+4. Mobile (POURQUOI)
+5. Arme (QUOI)
+6. Coupable (COUPABLE)
+
+________________
+
+EXPLICATION DES SYMBOLES
+
+Chaque carte affiche en bas un numéro qui indique sa catégorie et sa position dans la chaîne, ainsi qu'une ou deux couleurs sur les côtés qui permettent de poursuivre la chaîne en la reliant à des cartes compatibles.
+
+________________
+
+MISE EN PLACE
+
+1. Retirez toutes les cartes Victime du paquet.
+2. Mélangez les cartes Victime et piochez-en 1 au hasard (elle occupera le premier emplacement de la chaîne et représentera la Victime de l'affaire à résoudre).
+3. Remettez toutes les autres cartes Victime dans la boîte.
+4. Mélangez ensemble les cartes des 5 catégories restantes (elles constituent votre pioche).
+5. Piochez 3 cartes (votre main de départ).
+
+Vous pouvez effectuer un mulligan sur votre Victime initiale ou sur votre main de départ : choisissez 1 carte, 2 cartes ou les 3 cartes à remplacer. Remettez les cartes choisies dans leur paquet respectif, mélangez-le soigneusement, puis piochez le même nombre de nouvelles cartes. Cette procédure ne peut être effectuée qu'une seule fois pendant la mise en place.
+
+________________
+
+OBJECTIF
+
+Pour résoudre l'affaire, vous devez compléter la chaîne de cartes suivante :
+
+[1. VICTIME] - [2. LIEU] - [3. HEURE] - [4. MOBILE] - [5. ARME] - [6. COUPABLE]
+
+________________
+
+DÉROULEMENT DU TOUR
+
+1. Jouer une carte
+
+- Si vous avez en main une carte dont au moins une couleur située à gauche correspond à au moins une des couleurs situées à droite de la carte précédente dans la chaîne, vous pouvez la jouer.
+- Si vous n'avez aucune carte compatible, ne faites rien.
+
+2. Piocher une carte ou revenir en arrière
+
+Vous devez choisir une seule des deux options suivantes.
+
+Option A : Piocher
+- Piochez 1 carte et ajoutez-la à votre main.
+- Cette carte ne peut pas être jouée immédiatement après avoir été piochée.
+
+Option B : Revenir en arrière
+- Vous ne pouvez revenir en arrière que si la chaîne contient déjà au moins une carte après la Victime (vous ne pouvez jamais retirer la carte Victime) et si vous avez en main une carte dont la couleur est compatible avec celle de la carte qui la précéderait désormais dans la chaîne.
+- Défaussez la dernière carte de la chaîne. Elle est définitivement retirée de la partie.
+- Jouez immédiatement à sa place la carte compatible de votre main.
+
+3. Ajuster votre main à la taille prévue
+
+- Si vous avez plus de cartes que la limite actuelle de votre main (3 en mode Normal, 4 en mode Facile), défaussez les cartes excédentaires jusqu'à atteindre cette limite.
+- Si vous avez moins de cartes que la limite actuelle de votre main, piochez des cartes jusqu'à atteindre cette limite (ou jusqu'à épuisement de la pioche).
+- À la fin de cette étape, votre main doit contenir exactement le nombre de cartes correspondant à la limite, si la pioche le permet.
+
+________________
+
+FIN DE LA PARTIE
+
+Victoire :
+Complétez la chaîne de 6 cartes, de la Victime jusqu'à l'identification du Coupable.
+
+Défaite :
+La pioche est épuisée sans que la chaîne ait été complétée (la partie prend fin dès que la pioche est vide).
+
+________________
+
+DIFFICULTÉ
+Normal : 3 cartes maximum en main.
+Facile : 4 cartes maximum en main.
+
+________________
+
+Dernière révision : 2026-08-21

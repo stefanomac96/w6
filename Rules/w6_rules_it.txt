@@ -1,0 +1,94 @@
+W6: Catch the Killer
+"Una nuova scena del crimine a ogni partita. Un'indagine in solitaria dal ritmo serrato"
+
+Un gioco di carte in solitaria in cui ogni scena del crimine racconta una storia unica.
+Pesca le carte, ricostruisci la sequenza logica degli eventi e smaschera il colpevole.
+I colori non mentono mai: sta a te collegarli e trovare il percorso giusto verso la verità.
+Veloce, intrigante e infinitamente rigiocabile. Risolvi il caso, una carta alla volta!
+
+________________
+
+COMPONENTI
+
+Un mazzo di 60 carte, suddivise equamente in 6 categorie:
+
+1. Vittima (CHI)
+2. Luogo (DOVE)
+3. Ora (QUANDO)
+4. Movente (PERCHÉ)
+5. Arma (COSA)
+6. Colpevole (AUTORE)
+
+________________
+
+SPIEGAZIONE DEI SIMBOLI
+
+Ogni carta mostra in basso un numero che ne identifica la categoria e la posizione nella catena, oltre a uno o due colori sui lati che permettono di proseguire la catena collegandola a carte compatibili.
+
+________________
+
+PREPARAZIONE INIZIALE
+
+1. Rimuovi dal mazzo tutte le carte Vittima.
+2. Mescola le carte Vittima e pescane 1 a caso (sarà il primo spazio della catena, la Vittima del caso da risolvere).
+3. Riponi nella scatola tutte le altre carte Vittima.
+4. Mescola insieme le carte delle 5 categorie rimanenti (questo sarà il mazzo da cui pescherai).
+5. Pesca 3 carte dal mazzo (la tua mano iniziale).
+
+Puoi effettuare un mulligan sulla Vittima iniziale o sulla tua mano iniziale: scegli 1 carta, 2 carte oppure tutte e 3 le carte da cambiare. Rimetti nel rispettivo mazzo le carte scelte, mescolalo accuratamente, quindi pesca lo stesso numero di nuove carte. Questa procedura può essere eseguita una sola volta durante la preparazione.
+
+________________
+
+OBIETTIVO
+
+La catena di carte da completare per risolvere il caso sarà:
+
+[1. VITTIMA] - [2. LUOGO] - [3. ORA] - [4. MOVENTE] - [5. ARMA] - [6. COLPEVOLE]
+
+________________
+
+SEQUENZA DEL TURNO
+
+1. Gioca una carta
+
+- Se hai in mano una carta in cui almeno un colore sul lato sinistro corrisponde ad almeno uno dei colori sul lato destro della carta precedente nella catena, puoi giocarla.
+- Se non hai una carta compatibile, non fare nulla.
+
+2. Pesca una carta oppure torna indietro
+
+Devi scegliere una sola delle due opzioni seguenti.
+
+Opzione A: Pesca
+- Pesca 1 carta dal mazzo e aggiungila alla tua mano.
+- Questa carta non può essere giocata immediatamente dopo essere stata pescata.
+
+Opzione B: Torna indietro
+- Puoi tornare indietro soltanto se la catena contiene già almeno una carta oltre alla Vittima (non puoi mai rimuovere la carta Vittima) e se hai in mano una carta il cui colore è compatibile con quello della carta che ora la precederebbe nella catena.
+- Scarta l'ultima carta della catena. Viene rimossa definitivamente dal gioco.
+- Gioca immediatamente al suo posto la carta compatibile che hai in mano.
+
+3. Riporta la mano alla dimensione prevista
+
+- Se hai più carte del limite attuale della mano (3 in modalità Normale, 4 in modalità Facile), scarta le carte in eccesso fino a raggiungere il limite.
+- Se hai meno carte del limite attuale della mano, pesca carte dal mazzo fino a raggiungere il limite (oppure fino all'esaurimento del mazzo).
+- Al termine di questa fase, la tua mano deve contenere esattamente il numero di carte previsto dal limite, se il mazzo lo consente.
+
+________________
+
+FINE DELLA PARTITA
+
+Vittoria:
+Completa la catena di 6 carte, dalla Vittima fino all'individuazione del Colpevole.
+
+Sconfitta:
+Il mazzo si esaurisce senza che la catena sia stata completata (la partita termina non appena il mazzo è esaurito).
+
+________________
+
+DIFFICOLTÀ
+Normale: mano massima di 3 carte.
+Facile: mano massima di 4 carte.
+
+________________
+
+Ultima revisione: 2026-08-21
