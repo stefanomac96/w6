@@ -6,7 +6,7 @@ Draw cards, reconstruct the logical chain of events, and unmask the culprit.
 The colors never lie - it is up to you to connect them and find the right path to the truth.
 Fast-paced, intriguing, and infinitely replayable. Solve the case, one card at a time!
 
------------------
+____________________________
 
 COMPONENTS
 
