@@ -19,8 +19,6 @@ A deck of 60 cards, equally divided into 6 categories:
 5. Weapon (WHAT)
 6. Culprit (WRONGDOER)
 
-
-
 ________________
 
 SYMBOLS EXPLANATION
