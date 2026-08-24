@@ -12,12 +12,12 @@ SPIELMATERIAL
 
 Ein Stapel aus 60 Karten, gleichmäßig auf 6 Kategorien verteilt:
 
-1. Opfer (WER)
-2. Ort (WO)
-3. Zeitpunkt (WANN)
-4. Motiv (WARUM)
-5. Tatwaffe (WAS)
-6. Täter (TÄTER)
+1. Opfer (WHO)
+2. Ort (WHERE)
+3. Zeitpunkt (WHEN)
+4. Motiv (WHY)
+5. Tatwaffe (WHAT)
+6. Täter (WRONGDOER)
 
 ________________
 
