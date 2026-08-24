@@ -1,4 +1,3 @@
-W6: Catch the Killer
 "A new crime scene every time. A fast-paced solo investigation"
 
 A solo card game where every crime scene tells a unique story.
@@ -18,6 +17,8 @@ A deck of 60 cards, equally divided into 6 categories:
 4. Motive (WHY)
 5. Weapon (WHAT)
 6. Culprit (WRONGDOER)
+
+
 
 ________________
 

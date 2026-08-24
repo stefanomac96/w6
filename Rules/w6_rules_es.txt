@@ -1,0 +1,91 @@
+"Una nueva escena del crimen cada vez. Una investigación en solitario trepidante."
+
+Un juego de cartas en solitario en el que cada escena del crimen cuenta una historia única.  
+Roba las cartas, descarta las pistas falsas, reconstruye la secuencia lógica de los acontecimientos y desenmascara al culpable.  
+Los colores nunca mienten: depende de ti conectarlos y encontrar el camino correcto hacia la verdad.  
+Rápido, intrigante y infinitamente rejugable. ¡Resuelve el caso, carta a carta!
+
+________________
+
+COMPONENTES
+
+Un mazo de 60 cartas, dividido equitativamente en 6 categorías:
+
+1. Víctima (WHO)  
+2. Lugar (WHERE)  
+3. Momento (WHEN)  
+4. Motivo (WHY)  
+5. Arma (WHAT)  
+6. Culpable (WRONGDOER)
+
+________________
+
+ 🎨 EXPLICACIÓN DE LOS SÍMBOLOS
+
+Cada carta muestra un número en la parte inferior que identifica su categoría y su posición en la cadena, junto con uno o dos colores en los lados que permiten continuar la cadena conectándola con cartas compatibles.
+
+________________
+
+PREPARACIÓN INICIAL
+
+1. Del mazo, retira todas las cartas de Víctima.  
+2. Baraja las cartas de Víctima y roba 1 carta al azar (esta será el primer espacio de la cadena, la Víctima del caso que vas a resolver).  
+3. Devuelve las demás cartas de Víctima a la caja.  
+4. Baraja juntas las otras 5 categorías de cartas (este será el mazo del que robarás).  
+5. Roba 3 cartas del mazo (tu mano inicial).
+
+Puedes hacer un mulligan de tu víctima inicial o de tu mano inicial: elige 1 carta, 2 cartas o las 3 cartas para volver a robar. Devuelve las cartas elegidas al mazo, barájalo bien y roba el mismo número de cartas nuevas. Este procedimiento solo puede realizarse una vez durante la preparación.
+
+________________
+
+OBJETIVO
+
+La cadena de cartas que debes completar para resolver el caso será:
+
+[1. VÍCTIMA] – [2. LUGAR] – [3. MOMENTO] – [4. MOTIVO] – [5. ARMA] – [6. CULPABLE]
+
+________________
+
+SECUENCIA DE TURNO
+
+1. Colocar carta
+- Si tienes una carta en la mano donde al menos un color a la izquierda coincide con al menos uno de los colores a la derecha de la carta anterior en la cadena, puedes colocarla.  
+- Si no tienes una carta que coincida, no haces nada.
+
+2. Robar una carta o Retroceder  
+Debes elegir solo una de las dos opciones:
+
+Opción A: Robar
+- Roba 1 carta del mazo y añádela a tu mano.  
+- Esta carta no puede jugarse inmediatamente después de ser robada.
+
+Opción B: Retroceder
+- Solo puedes Retroceder si la cadena ya contiene al menos una carta más allá de la Víctima (nunca puedes retirar la carta de Víctima), y tienes una carta en la mano que coincida con el color de la carta que quedará antes en la cadena.  
+- Descarta la última carta de la cadena. Se elimina del juego permanentemente.  
+- Juega inmediatamente la carta coincidente de tu mano en su lugar.
+
+3. Ajustar tu mano al tamaño objetivo
+- Si tienes más cartas que el límite actual de mano (3 en Normal, 4 en Fácil), descarta las cartas sobrantes hasta alcanzar el límite.  
+- Si tienes menos cartas que el límite, roba cartas del mazo hasta alcanzarlo (o hasta que el mazo se agote).  
+- Al final de este paso, tu mano debe contener exactamente el número de cartas del límite, siempre que el mazo lo permita.
+
+________________
+
+FIN DE LA PARTIDA
+
+Victoria:  
+Completa la cadena de 6 cartas, desde la Víctima hasta encontrar al Culpable.
+
+Derrota:  
+El mazo se agota sin completar la cadena (la partida termina en cuanto el mazo se queda sin cartas).
+
+________________
+
+DIFICULTAD
+
+- Normal: Mano máxima de 3 cartas.  
+- Fácil: Mano máxima de 4 cartas.
+
+________________
+
+Última revisión: 2026-08-21
