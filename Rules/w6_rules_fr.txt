@@ -12,12 +12,12 @@ MATÉRIEL
 
 Un paquet de 60 cartes, réparties équitablement en 6 catégories :
 
-1. Victime (QUI)
-2. Lieu (OÙ)
-3. Heure (QUAND)
-4. Mobile (POURQUOI)
-5. Arme (QUOI)
-6. Coupable (COUPABLE)
+1. Victime (WHO)
+2. Lieu (WHERE)
+3. Heure (WHEN)
+4. Mobile (WHY)
+5. Arme (WHAT)
+6. Coupable (WRONGDOER)
 
 ________________
 
