@@ -1,0 +1,94 @@
+
+“Uma nova cena de crime a cada partida. Uma investigação solo dinâmica e acelerada.”
+Um jogo de cartas solo em que cada cena de crime conta uma história única.
+Compre as cartas, descarte as pistas falsas, reconstrua a sequência lógica dos acontecimentos e desmascare o culpado.
+As cores nunca mentem — cabe a você conectá‑las e encontrar o caminho certo para a verdade.
+Rápido, envolvente e infinitamente rejogável. Resolva o caso, carta por carta!
+
+________________
+
+COMPONENTES
+
+Um baralho de 60 cartas, dividido igualmente em 6 categorias:
+
+1. Vítima (WHO)
+2. Local (WHERE)
+3. Momento (WHEN)
+4. Motivo (WHY)
+5. Arma (WHAT)
+6. Culpado (WRONGDOER)
+
+________________
+
+EXPLICAÇÃO DOS SÍMBOLOS
+
+Cada carta exibe um número na parte inferior que identifica sua categoria e sua posição na cadeia, além de uma ou duas cores nas laterais que permitem continuar a cadeia conectando‑a a cartas compatíveis.
+
+________________
+
+PREPARAÇÃO INICIAL
+
+1. Do baralho, remova todas as cartas de Vítima.
+2. Embaralhe as cartas de Vítima e compre 1 carta aleatória (ela será o primeiro espaço da cadeia, a Vítima do caso a ser resolvido).
+3. Coloque todas as outras cartas de Vítima de volta na caixa.
+4. Embaralhe juntas as outras 5 categorias de cartas (este será o baralho do qual você comprará cartas).
+5. Compre 3 cartas do baralho (sua mão inicial).
+
+Você pode fazer um mulligan na sua Vítima inicial ou na sua mão inicial: escolha 1 carta, 2 cartas ou todas as 3 para recomprar. Coloque as cartas escolhidas de volta no baralho, embaralhe bem e compre o mesmo número de novas cartas. Este procedimento só pode ser realizado uma única vez durante a preparação.
+
+________________
+
+OBJETIVO
+
+A cadeia de cartas a ser completada para resolver o caso será:
+
+[1. VÍTIMA] – [2. LOCAL] – [3. MOMENTO] – [4. MOTIVO] – [5. ARMA] – [6. CULPADO]
+
+________________
+
+SEQUÊNCIA DE TURNO
+
+1. Colocar carta
+
+- Se você tiver uma carta na mão em que pelo menos uma cor à esquerda combine com pelo menos uma das cores à direita da carta anterior na cadeia, você pode colocá‑la.
+- Se não tiver uma carta compatível, não faça nada.
+
+2. Comprar carta ou Retroceder
+
+Você deve escolher apenas uma das duas opções abaixo.
+
+Opção A: Comprar
+- Compre 1 carta do baralho e adicione‑a à sua mão.
+- Esta carta não pode ser jogada imediatamente após ser comprada.
+
+Opção B: Retroceder
+- Você só pode Retroceder se a cadeia já contiver pelo menos uma carta além da Vítima (a carta de Vítima nunca pode ser removida), e se tiver na mão uma carta que combine com a cor da carta que agora a precederá na cadeia.
+- Descarte a última carta da cadeia. Ela é removida permanentemente do jogo.
+- Jogue imediatamente a carta compatível da sua mão no lugar dela.
+
+3. Ajustar a mão ao tamanho limite
+
+- Se você tiver mais cartas do que o limite atual da mão (3 no Normal, 4 no Fácil), descarte o excesso até atingir o limite.
+- Se tiver menos cartas do que o limite, compre cartas do baralho até alcançá‑lo (ou até o baralho acabar).
+- Ao final desta etapa, sua mão deve conter exatamente o número de cartas do limite, sempre que o baralho permitir.
+
+________________
+
+FIM DE JOGO
+
+Vitória:
+Complete a cadeia de 6 cartas, da Vítima até encontrar o Culpado.
+
+Derrota:
+O baralho acaba antes de completar a cadeia (o jogo termina assim que o baralho é esgotado).
+
+________________
+
+DIFICULDADE
+
+- Normal: mão máxima de 3 cartas.
+- Fácil: mão máxima de 4 cartas.
+
+________________
+
+Última revisão: 2026‑08‑21
