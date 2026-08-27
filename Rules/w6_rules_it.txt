@@ -86,9 +86,10 @@ Il mazzo si esaurisce senza che la catena sia stata completata (la partita termi
 ________________
 
 DIFFICOLTA'
-Normale: mano massima di 3 carte.
-Facile: mano massima di 4 carte.
+
+- Normale: mano massima di 3 carte.
+- Facile: mano massima di 4 carte.
 
 ________________
 
-Ultima revisione: 2026-08-21
+Ultima revisione: 2026-08-27

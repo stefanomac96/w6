@@ -86,9 +86,10 @@ Der Nachziehstapel ist leer, ohne dass die Kette vervollständigt wurde (das Spi
 ________________
 
 SCHWIERIGKEITSGRAD
-Normal: maximal 3 Handkarten.
-Einfach: maximal 4 Handkarten.
+
+- Normal: maximal 3 Handkarten.
+- Einfach: maximal 4 Handkarten.
 
 ________________
 
-Letzte Überarbeitung: 2026-08-21
+Letzte Überarbeitung: 2026-08-27

@@ -1,9 +1,9 @@
-const cacheName = "Stelex Software-W6 - Catch the Killer-0.2026-08-25C";
+const cacheName = "Stelex Software-W6 - Catch the Killer-1.0";
 const contentToCache = [
-    "Build/iOS (WebApp).loader.js",
-    "Build/iOS (WebApp).framework.js",
-    "Build/iOS (WebApp).data",
-    "Build/iOS (WebApp).wasm",
+    "Build/WebApp.loader.js",
+    "Build/WebApp.framework.js",
+    "Build/WebApp.data",
+    "Build/WebApp.wasm",
     "TemplateData/style.css"
 
 ];

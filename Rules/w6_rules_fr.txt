@@ -4,7 +4,7 @@
 Un jeu de cartes en solo dans lequel chaque scène de crime raconte une histoire unique.
 Piochez vos cartes, défaussez ce qui vous égare, reconstruisez la séquence logique des événements et démasquez le coupable.
 Les couleurs ne mentent jamais : à toi de les relier et de trouver le bon chemin vers la vérité.
-Rapide, captivant et rejouable à l’infini. Résous l’affaire, une carte après l’autre !
+Rapide, captivant et rejouable à l'infini. Résous l'affaire, une carte après l'autre !
 
 ________________
 
@@ -14,7 +14,7 @@ Un paquet de 60 cartes, réparties équitablement en 6 catégories :
 
 1. Victime (WHO)
 2. Lieu (WHERE)
-3. Heure (WHEN)
+3. Quand (WHEN)
 4. Mobile (WHY)
 5. Arme (WHAT)
 6. Coupable (WRONGDOER)
@@ -43,7 +43,7 @@ OBJECTIF
 
 Pour résoudre l'affaire, vous devez compléter la chaîne de cartes suivante :
 
-[1. VICTIME] - [2. LIEU] - [3. HEURE] - [4. MOBILE] - [5. ARME] - [6. COUPABLE]
+[1. VICTIME] - [2. LIEU] - [3. QUAND] - [4. MOBILE] - [5. ARME] - [6. COUPABLE]
 
 ________________
 
@@ -86,9 +86,10 @@ La pioche est épuisée sans que la chaîne ait été complétée (la partie pre
 ________________
 
 DIFFICULTÉ
-Normal : 3 cartes maximum en main.
-Facile : 4 cartes maximum en main.
+
+- Normal : 3 cartes maximum en main.
+- Facile : 4 cartes maximum en main.
 
 ________________
 
-Dernière révision : 2026-08-21
+Dernière révision : 2026-08-27

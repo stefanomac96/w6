@@ -86,9 +86,10 @@ Deck finished without completing the chain (the game ends as soon as the deck is
 ________________
 
 DIFFICULTY
-Normal: Maximum hand of 3 cards.
-Easy: Maximum hand of 4 cards.
+
+- Normal: Maximum hand of 3 cards.
+- Easy: Maximum hand of 4 cards.
 
 ________________
 
-Last revision: 2026-08-21
+Last revision: 2026-08-27
